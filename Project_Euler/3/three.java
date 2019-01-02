@@ -6,7 +6,6 @@ class prime{
 	int check_prime(long num)
 	{
 		int flag = 0;
-		// System.out.println(num/2);
 		for(int i=2;i<=num/2;i++){
 			if(num%i==0)
 			{
