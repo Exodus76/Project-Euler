@@ -1,3 +1,3 @@
-#Project_Euler
-Solutions to Project Euler in
-cpp,java,py
+# Project_Euler
+
+Solutions to Project Euler in c, java and python
